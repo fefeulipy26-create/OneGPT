@@ -1,0 +1,32 @@
+NovaAnimations/
+│
+├── build.gradle
+├── settings.gradle
+├── gradle.properties
+│
+├── .github/
+│   └── workflows/
+│       └── build.yml
+│
+└── src/
+    └── main/
+        ├── java/
+        │   └── br/
+        │       └── novaanimations/
+        │           ├── NovaAnimations.java
+        │           ├── CommonProxy.java
+        │           │
+        │           ├── config/
+        │           │   └── ModConfig.java
+        │           │
+        │           ├── client/
+        │           │   ├── ClientProxy.java
+        │           │   ├── NovaAnimationsGui.java
+        │           │   └── AnimationHooks.java
+        │           │
+        │           └── core/
+        │               ├── NovaCorePlugin.java
+        │               └── NovaTransformer.java
+        │
+        └── resources/
+            └── mcmod.info
