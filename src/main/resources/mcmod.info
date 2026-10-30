@@ -1,0 +1,12 @@
+
+[
+  {
+    "modid": "novaanimations",
+    "name": "NovaAnimations",
+    "description": "Independent animation mod for Forge 1.8.9",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": ["NovaAnimations"],
+    "dependencies": []
+  }
+]
